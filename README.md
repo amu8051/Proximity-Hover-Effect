@@ -8,4 +8,6 @@ STEPS
 - Rotate eyes by angle calculated above
 - Your Proximity Hover Effect(Eyes that follow your Mouse) is complete! 
 
-![Proximity Hover Effect](https://user-images.githubusercontent.com/26090486/192859364-f3525650-5644-4bba-8d5b-d545498f5a27.png)
+![Proximity Hover Effect](https://user-images.githubusercontent.com/26090486/192859716-83cacbdf-fed6-4115-b488-f0c3d7908698.png)
+
+[Proximity Hover Effect.webm](https://user-images.githubusercontent.com/26090486/192859753-fae0a2d1-780c-489e-91ca-e979ddfa0886.webm)
